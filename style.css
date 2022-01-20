@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("1920x1080_stars-glare-black-space.jpeg");
+    height: 100%;
+    width: 100%;
+    color: white;
+}
+.uliana{
+    margin:10vh 0 0 75vh;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.uliana-img{
+    height: 500px;
+}
+.uliana-name{
+    font-size: 36px;
+    margin-left: 15vh;
+}
+.uliana-age{
+    font-size: 24px;
+    margin-left: 23vh;
+}
+.uliana-info{
+    font-size: 18px;
+}
+.petlya{
+    margin:10vh 0 10vh 5vh;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.petlya-img{
+    height: 500px;
+}
+.petlya-name{
+    font-size: 36px;
+    margin-left: 8vh;
+}
+.petlya-age{
+    font-size: 24px;
+    margin-left:20vh;
+}
+.petlya-info{
+    font-size: 18px;
+}
+.parkhom{
+    margin:10vh 0 10vh 5vh;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.parkhom-img{
+    height: 500px;
+}
+.parkhom-name{
+    font-size: 36px;
+    margin-left: 8vh;
+}
+.parkhom-age{
+    font-size: 24px;
+    margin-left:20vh;
+}
+.parkhom-info{
+    font-size: 18px;
+}
+.kora{
+    margin:10vh 0 10vh 5vh;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.kora-img{
+    height: 500px;
+}
+.kora-name{
+    font-size: 36px;
+    margin-left: 8vh;
+}
+.kora-age{
+    font-size: 24px;
+    margin-left:20vh;
+}
+.kora-info{
+    font-size: 18px;
+}
+.friends{
+    display: flex;
+    margin-left: 10vh;
+
+}
+a{
+    text-decoration: none;
+    font-size: 36px;
+    color: white;
+}
